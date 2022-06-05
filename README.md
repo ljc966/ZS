@@ -15,7 +15,7 @@ https://ljc2966.github.io/zhengsheng/
 
 > 其他计算机项目：bat、vbs、cmd、html 以及裕语言、C++语言、易语言等
 > 
- ###   电脑：
+ ###  电脑：
 
  bat
 
@@ -44,6 +44,6 @@ https://ljc2966.github.io/zhengsheng/
 在此感谢benjaminkondraki——明君的帮助
 
 
-## 住进布达拉宫，我是雪域最大的王
+##  住进布达拉宫，我是雪域最大的王
 
 ##  流浪在拉萨街头，我是世间最美的情郎
