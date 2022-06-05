@@ -45,7 +45,7 @@ https://ljc2966.github.io/zhengsheng/
 
 闲暇之余来玩个贪吃蛇怎么样？
 
-<a href="https://github.com/ljc966/zhengsheng266/blob/main/%E7%BD%91%E9%A1%B5%E7%89%88%E8%B4%AA%E5%90%83%E8%9B%87.html">点击进入</a>
+<a href="https://ljc966.github.io/bb/网页版贪吃蛇.html">点击进入</a>
 
 
 ##  住进布达拉宫，我是雪域最大的王
