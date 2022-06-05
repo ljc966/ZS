@@ -25,6 +25,8 @@ html
 
 [流星粒子特效.zip](https://github.com/ljc966/ZS/files/8839629/default.zip)
 
+手机软件后续完善
+
 
 ###  本人QQ：
 
