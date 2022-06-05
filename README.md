@@ -1,5 +1,6 @@
 #   ZS正盛集团
-> **正盛ljc966**
+> **正盛ljc966**![AfterClicking](https://user-images.githubusercontent.com/101500630/172044325-967c57c0-6842-4276-b6bc-30fc2a8ebaeb.png)
+
 
 
 > 一个无关紧要的GitHub小游戏
