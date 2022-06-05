@@ -1,14 +1,14 @@
 #   ZS正盛集团
-正盛ljc966
+> 正盛ljc966
 
 
-一个无关紧要的GitHub小游戏
+> 一个无关紧要的GitHub小游戏
 
 https://ljc2966.github.io/zhengsheng/
 
 
 
-其他计算机项目：bat、vbs、cmd、html 以及裕语言、C++语言、易语言等
+> 其他计算机项目：bat、vbs、cmd、html 以及裕语言、C++语言、易语言等
 > ###   电脑：
 
  bat
@@ -25,7 +25,7 @@ https://ljc2966.github.io/zhengsheng/
 
 [流星粒子特效.zip](https://github.com/ljc966/ZS/files/8839629/default.zip)
 
->> 手机软件后续完善
+ 手机软件后续完善
 
 
 > ###  本人QQ：
