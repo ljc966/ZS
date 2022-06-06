@@ -30,8 +30,21 @@ https://ljc2966.github.io/zhengsheng/
  html
 
 [流星粒子特效.zip](https://github.com/ljc966/ZS/files/8839629/default.zip)
+（流星雨特效）
+ 
+###  手机APP
 
- 手机软件后续完善
+[正盛APP.zip](https://github.com/ljc966/zhengsheng266/files/8844880/APP.zip)
+(正盛APP)
+
+[流星雨特效APP.zip](https://github.com/ljc966/zhengsheng266/files/8844853/base.zip)
+（流星雨特效）
+
+[独家加密APP.zip](https://github.com/ljc966/zhengsheng266/files/8844865/default.zip)
+（独家加密）
+
+[时间轮盘APP.zip](https://github.com/ljc966/zhengsheng266/files/8844873/default.zip)
+（时间轮盘）
 
 
 > ###  本人QQ：
