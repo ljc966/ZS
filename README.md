@@ -9,7 +9,7 @@
 
 > 一个无关紧要的GitHub小游戏
 
-https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengsheng/">点击进入</a>
+https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengsheng/">点击进入游戏</a>
 
 
 
