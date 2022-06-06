@@ -64,7 +64,7 @@ https://ljc2966.github.io/zhengsheng/
 
 在此感谢benjaminkondraki——明君的帮助
 
-闲暇之余来玩个小游戏：
+闲暇之余来玩个小游戏（电脑版）：
 
 <a href="https://ljc966.github.io/bb/网页版贪吃蛇.html">点击进入游戏</a>
 
