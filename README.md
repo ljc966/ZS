@@ -20,23 +20,23 @@ https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengshe
 
  bat
 
-[蹦迪.zip](https://github.com/ljc966/ZS/files/8839613/default.zip)
-（bat蹦迪）
+[bat程序.zip](https://github.com/ljc966/zhengsheng266/files/8853712/bat.zip)
+
 
  vbs
 
-[硬件信息.zip](https://github.com/ljc966/ZS/files/8839625/default.zip)
-（电脑硬件信息查询）
+[vbs程序.zip](https://github.com/ljc966/zhengsheng266/files/8853701/vbs.zip)
+
 
  html
 
-[流星粒子特效.zip](https://github.com/ljc966/ZS/files/8839629/default.zip)
-（流星雨特效）
+[网页html特效.zip](https://github.com/ljc966/zhengsheng266/files/8853676/html.zip)
+
  
  exe
  
- [俄罗斯方块 .zip](https://github.com/ljc966/zhengsheng266/files/8844916/default.zip)
-（俄罗斯方块）
+ [exe程序.zip](https://github.com/ljc966/zhengsheng266/files/8853632/exe.zip)
+
  
 ###  手机APP
 
