@@ -14,9 +14,9 @@ https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengshe
 
 
 
-> 其他计算机项目：bat、vbs、cmd、html 以及裕语言、C++语言、易语言等
+> 计算机项目：bat、vbs、cmd、html 以及裕语言、C++语言、易语言等
 
-> 其他风水项目：看面相、看手相、看风水、算命运、算亲人、驱邪捉鬼、各种红白事等
+> 风水项目：看面相、看手相、看风水、算命运、算亲人、驱邪捉鬼、各种红白事等
 
 ###  电脑程序
 
