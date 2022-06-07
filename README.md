@@ -37,6 +37,10 @@ https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengshe
  
  [exe程序.zip](https://github.com/ljc966/zhengsheng266/files/8853632/exe.zip)
 
+
+ c++
+ [c++程序.zip](https://github.com/ljc966/zhengsheng266/files/8853924/c%2B%2B.zip)
+
  
 ###  手机APP
 
