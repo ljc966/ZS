@@ -51,13 +51,9 @@ https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengshe
 
 `贪吃蛇手机版`  [贪吃蛇.zip](https://github.com/ljc966/zhengsheng266/files/8853588/default.zip)
 
-
  ###  诗云
  
- 
-[诗云.zip](https://github.com/ljc966/zhengsheng266/files/8871041/default.zip)<a href="https://github.com/ljc966/as">点击进入预览</a>
-
-
+[诗云.zip](https://github.com/ljc966/zhengsheng266/files/8871041/default.zip)
 
 
 
